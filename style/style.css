@@ -1,0 +1,125 @@
+html,body{
+  background-color: #0778cf;
+ 
+  background: repeating-linear-gradient( 45deg, #45c8f7, #45c8f7 2px, #0778cf 2px, #0778cf 10px );
+width: 95%;
+  margin: auto;
+}
+
+
+.menu{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+
+}
+
+.icono{
+  width: 20%;
+ 
+}
+
+.imatge{
+  width: 200px;
+  height: 130px;
+  background-color:rgba(165, 228, 255 ,0.8);
+
+  
+}
+.title{
+  width: 80%;
+  height: 130px;
+  background-color:rgba(165, 228, 255 ,0.8);
+}
+
+.title h1{
+font-weight: 300px;
+letter-spacing: 2px;
+font-size:50px;
+margin-top: 10px;
+color: #162162;
+}
+
+.text{
+  color: white;
+  font-size: 20px;
+  margin-left:6%;
+  margin-bottom: 0px;
+}
+
+
+.container{
+display: flex;
+
+
+}
+
+.register{
+width:40%;
+padding-top: 100px;
+background-color:rgba(165, 228, 255 ,0.8);
+padding-left: 25px;
+
+}
+
+.caixa{
+  width:60%;
+  background-color:rgba(165, 228, 255 ,0.8);
+padding-bottom: 20px;
+padding-top:200px;
+}
+
+select{
+  width: 95%;
+  height: 40px;
+
+}
+
+.data{
+
+display: flex;
+
+}
+
+.sortida{
+  width: 50%;
+
+}
+
+.tornada{
+  width: 50%;
+}
+
+.sortida p input{
+  width: 80%;
+
+}
+
+button{
+text-decoration:none;
+font-weight:600;
+font-size:20px;
+color:#ffffff;
+padding-top:20px;
+padding-bottom:20px;
+padding-left:40px;
+padding-right:40px;
+background-color:#005BBB;
+}
+
+button.buscar{
+float: right;
+margin-right: 15px;
+border-radius: 20px;
+}
+
+.ajuda{
+
+}
+
+
+.peu{
+margin-top: 10px;
+ text-align: center;
+}
